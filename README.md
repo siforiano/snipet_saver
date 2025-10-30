@@ -1,7 +1,5 @@
 # SnippetSaver - Gestor Visual de Snippets de Código Python
 
-![SnippetSaver Screenshot](screenshot.png)
-
 ## Descripción
 
 SnippetSaver es una aplicación de escritorio visual para guardar, gestionar, buscar y exportar fragmentos de código (snippets) en Python. Usa una interfaz gráfica moderna basada en CustomTkinter, pensada para ser intuitiva y atractiva.
