@@ -35,8 +35,6 @@ source venv/bin/activate # Linux / macOS
 venv\Scripts\activate # Windows
 pip install -r requirements.txt
 
-text
-
 ---
 
 ## Uso
@@ -44,8 +42,6 @@ text
 Ejecuta la aplicación con:
 
 python snippetsaver.py
-
-text
 
 ---
 
@@ -68,21 +64,8 @@ text
 
 ---
 
-## Próximas mejoras
-
-- Soporte para categorías y tags avanzados.
-- Exportar a otros formatos (HTML, Markdown).
-- Importar snippets desde archivos externos.
-- Sincronización entre dispositivos.
-
----
-
 ## Licencia
 
 Este proyecto está licenciado bajo MIT License.
 
 ---
-
-## Capturas de pantalla
-
-*Agrega aquí imágenes o GIFs de la app en funcionamiento para mayor impacto.*
